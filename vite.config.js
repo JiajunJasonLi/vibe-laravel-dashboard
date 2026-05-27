@@ -15,7 +15,7 @@ export default defineConfig({
                 }),
             ],
         }),
-	vue(),
+	    vue(),
         tailwindcss(),
     ],
     server: {
