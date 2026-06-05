@@ -1,0 +1,5 @@
+<template>
+    <h1 class="text-3xl font-bold text-blue-600">
+        Hello Tailwind
+    </h1>
+</template>
